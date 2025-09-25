@@ -16,15 +16,15 @@ Enable weak-links in Obsidian! This plugin allows HTML-style links (`<a href="no
 ## License
 MIT License — see LICENSE file
 
+##
 
-‎ <img width="288" height="92" alt="image" src="https://github.com/user-attachments/assets/172410df-7288-46f3-9949-bea68dd3fdce" />
+‎ <img width="276" height="85" alt="image" src="https://github.com/user-attachments/assets/b2f68404-8b6b-4494-b235-a2fdaddd31fa" />
 
-‎ <img width="374" height="39" alt="image" src="https://github.com/user-attachments/assets/4e850516-9665-4819-8ea9-868d83aca40e" />
+‎ <img width="414" height="35" alt="image" src="https://github.com/user-attachments/assets/e1f6b7a1-d27b-4f7c-afeb-b9a1ff61c6b8" />
 
-‎ <img width="299" height="34" alt="image" src="https://github.com/user-attachments/assets/804ad6f9-d09b-4a32-ba95-b4d64cec47ff" />
+‎ <img width="218" height="29" alt="image" src="https://github.com/user-attachments/assets/cc2a7c26-d03b-4e08-91e7-53e31e0f75c9" />
 
-‎ <img width="192" height="241" alt="image" src="https://github.com/user-attachments/assets/bf59a470-ddc5-4673-bdfc-c6aee686ca38" />
+‎ ![test](https://github.com/user-attachments/assets/4a83a3ef-f331-490e-8c7b-9ec641f3d93a)
 
-![vid](https://github.com/user-attachments/assets/43117b23-580d-4384-af77-c49946c856a5)
 
 
